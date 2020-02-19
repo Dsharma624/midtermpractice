@@ -6,14 +6,6 @@
 package midtermreview;
 
 import java.util.Scanner;
-
-/**
- * A class that models vending machine items.
- * Items have a name and a price. The possible items are listed in the
- * array called Candies. Use this code to answer questions
- * B.1 and B.2 in the midterm review.
- * @author dancye, 2019
- */
 public class VendingMachineItem 
 {
     public double price;
